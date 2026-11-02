@@ -1,6 +1,6 @@
-# APOTEK ABE - Week 5 (PHP Server-Side)
+# APOTEK JOGO SEHAT - Week 5 (PHP Server-Side)
 
-Website Apotek ABE disesuaikan dengan materi Week 5.
+Website Apotek JOGO SEHAT disesuaikan dengan materi Week 5.
 
 ## Penerapan materi
 1. **PHP Page:** halaman utama menggunakan `index.php`.
