@@ -17,9 +17,9 @@ Fitur REST API & Fetch API sebelumnya tetap dipertahankan sebagai fitur JavaScri
 ## Cara menjalankan dengan XAMPP
 1. Install XAMPP, lalu buka XAMPP Control Panel.
 2. Klik **Start** pada Apache.
-3. Ekstrak folder `APOTIK ABE`.
+3. Ekstrak folder `APOTIK Week 5`.
 4. Salin folder tersebut ke `C:\xampp\htdocs\`.
-5. Buka `http://localhost/APOTIK%20ABE/` atau `http://localhost/APOTIK%20ABE/index.php`.
+5. Buka `http://localhost/APOTIK%20/` atau `http://localhost/APOTIK%20ABE/index.php`.
 6. Coba pencarian seperti `Vitamin` atau `Paracetamol`.
 
 **Catatan:** PHP tidak dapat dijalankan dengan membuka file langsung atau Live Server biasa. Gunakan Apache melalui XAMPP atau PHP development server.
